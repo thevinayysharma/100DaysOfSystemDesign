@@ -2,10 +2,14 @@
 <a href="https://ibb.co/8d72ZJN"><img src="https://i.ibb.co/rcwMrgF/matrix-gif.gif" alt="100-Days-Of-System-Design"   ></a>
 
 ## Resources
-- [ Designing data intensive applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
-- [Scalability & System Design for Developers](https://www.educative.io/path/scalability-system-design) (acceessible via Github Student Dev. Pack)
+- [Designing Data Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+- [Web Application Software architecture](https://www.educative.io/courses/web-application-software-architecture-101) (acceesible via Github Student Dev. Pack)
 
 ##  Progress ⏳
 
 ### Day 1
-- [Web Architecture basics](https://www.youtube.com/watch?v=AYHE2m651dY) 
+- [Why you should learn System Design](https://www.scaleyourapp.com/master-system-design-for-your-interviews/)
+- [Tiers in Software Architecture, Web Architecture](https://www.educative.io/courses/web-application-software-architecture-101/N0oypzNK9wN) - _Module: 1-3_
+
+### Day 2
+
