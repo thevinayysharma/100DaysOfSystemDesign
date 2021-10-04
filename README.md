@@ -1,5 +1,5 @@
 # 100DaysOfSystemDesign
-<a href="https://ibb.co/8d72ZJN"><img src="https://ibb.co/8d72ZJN/100-Days-of-System-Design" alt="100-Days-Of-System-Design" ></a>
+<a href="https://ibb.co/8d72ZJN"><img src="https://i.ibb.co/rcwMrgF/matrix-gif.gif" alt="100-Days-Of-System-Design"   ></a>
 
 ## Resources
 - [ Designing data intensive applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
