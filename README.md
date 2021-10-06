@@ -15,3 +15,6 @@
 - [Fb outage](https://blog.cloudflare.com/october-2021-facebook-outage/), [How fb  supports global events](https://engineering.fb.com/2018/02/12/production-engineering/how-production-engineers-support-global-events-on-facebook/) - _blog_
 - [Scalability](https://www.educative.io/courses/web-application-software-architecture-101/g2BJ6mR34Xj) - _Module: 4_
 
+### Day 3
+- [Youtube Architecture](https://www.scaleyourapp.com/youtube-architecture-how-does-it-serve-high-quality-videos-with-low-latency/), [YT Architecture -old](http://highscalability.com/youtube-architecture),[Youtube Databases](https://www.scaleyourapp.com/youtube-database-how-does-it-store-so-many-videos-without-running-out-of-storage-space/) - _blog_
+- [High Availability](https://www.educative.io/courses/web-application-software-architecture-101/mEY0j3pmDgA), [Load Balancing](https://www.educative.io/courses/web-application-software-architecture-101/RLqwq90KMDR) - _Module: 5-6_
