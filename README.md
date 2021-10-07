@@ -18,3 +18,7 @@
 ### Day 3
 - [Youtube Architecture](https://www.scaleyourapp.com/youtube-architecture-how-does-it-serve-high-quality-videos-with-low-latency/), [YT Architecture -old](http://highscalability.com/youtube-architecture),[Youtube Databases](https://www.scaleyourapp.com/youtube-database-how-does-it-store-so-many-videos-without-running-out-of-storage-space/) - _blog_
 - [High Availability](https://www.educative.io/courses/web-application-software-architecture-101/mEY0j3pmDgA), [Load Balancing](https://www.educative.io/courses/web-application-software-architecture-101/RLqwq90KMDR) - _Module: 5-6_
+
+### Day 4
+- [Scaling Linkedin](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin) - _blog_
+- [Microservices and Monolitihic architecture](https://www.educative.io/courses/web-application-software-architecture-101/7DX0poDNLl1), [Micro-frontends](https://www.educative.io/courses/web-application-software-architecture-101/7nZ2AK9oLl1) - _Module: 7-8_
