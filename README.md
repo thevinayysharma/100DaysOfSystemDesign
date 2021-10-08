@@ -22,3 +22,7 @@
 ### Day 4
 - [Scaling Linkedin](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin) - _blog_
 - [Microservices and Monolitihic architecture](https://www.educative.io/courses/web-application-software-architecture-101/7DX0poDNLl1), [Micro-frontends](https://www.educative.io/courses/web-application-software-architecture-101/7nZ2AK9oLl1) - _Module: 7-8_
+
+### Day 5
+- [Databases History](https://seldo.com/posts/databases_how_they_work_and_a_brief_history) - _blog_
+- [Database](https://www.educative.io/courses/web-application-software-architecture-101/N0N7xon2YrN) - _Module: 9_
