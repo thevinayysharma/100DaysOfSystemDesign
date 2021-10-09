@@ -26,3 +26,9 @@
 ### Day 5
 - [Databases History](https://seldo.com/posts/databases_how_they_work_and_a_brief_history) - _blog_
 - [Database](https://www.educative.io/courses/web-application-software-architecture-101/N0N7xon2YrN) - _Module: 9_
+
+### Day 6
+- [HTTP caching](https://web.dev/http-cache), [MDN-cache article](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching), [Cache implementations](https://javalandscape.blogspot.com/2009/01/cachingcaching-algorithms-and-caching.html) - _blogs_
+- [Caching](https://www.educative.io/courses/web-application-software-architecture-101/q2pkD39Rk3R) - _Module: 10_
+
+
