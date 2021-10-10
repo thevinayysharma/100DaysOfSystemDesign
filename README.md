@@ -30,5 +30,8 @@
 ### Day 6
 - [HTTP caching](https://web.dev/http-cache), [MDN-cache article](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching), [Cache implementations](https://javalandscape.blogspot.com/2009/01/cachingcaching-algorithms-and-caching.html) - _blogs_
 - [Caching](https://www.educative.io/courses/web-application-software-architecture-101/q2pkD39Rk3R) - _Module: 10_
+- 
+### Day 7
+- [Message Queue](https://www.educative.io/courses/web-application-software-architecture-101/m7AOo5JkW90) -_Module: 11_ 
 
 
