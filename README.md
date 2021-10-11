@@ -34,4 +34,7 @@
 ### Day 7
 - [Message Queue](https://www.educative.io/courses/web-application-software-architecture-101/m7AOo5JkW90) -_Module: 11_ 
 
+### Day 8
+- [Stream processing](https://www.educative.io/courses/web-application-software-architecture-101/gkLPrMQOPz9) - _Module: 12_
+
 
