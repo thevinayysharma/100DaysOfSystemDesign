@@ -41,3 +41,7 @@
 - [Architectures](https://www.educative.io/courses/web-application-software-architecture-101/N8RZVYO5rpK) - _Module: 13-14_
 
 
+### Day 10
+- [Case-study & Mobile-Apps](https://www.educative.io/courses/web-application-software-architecture-101/gkkXoVkJzmj) - _Module: 15-16_ 
+  - Online Course Completed
+
