@@ -2,8 +2,13 @@
 <a href="https://ibb.co/8d72ZJN"><img src="https://i.ibb.co/rcwMrgF/matrix-gif.gif" alt="100-Days-Of-System-Design"   ></a>
 
 ## Resources
+Reading
 - [Designing Data Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
-- [Web Application Software architecture](https://www.educative.io/courses/web-application-software-architecture-101) (acceesible via Github Student Dev. Pack)
+- [Web Application Software architecture](https://www.educative.io/courses/web-application-software-architecture-101) (accessible via Github Student Dev. Pack)
+
+Hands on Learning
+ - [Low Level system design](https://github.com/prasadgujar/low-level-design-primer)
+
 
 ##  Progress ⏳
 
@@ -44,4 +49,6 @@
 ### Day 10
 - [Case-study & Mobile-Apps](https://www.educative.io/courses/web-application-software-architecture-101/gkkXoVkJzmj) - _Module: 15-16_ 
   - Online Course Completed
-
+---
+### Day 11
+ - [Adding structured data to webpage](https://codelabs.developers.google.com/codelabs/structured-data?hl=en#0) - Google Codelab
