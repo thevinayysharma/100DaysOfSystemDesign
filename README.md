@@ -51,4 +51,11 @@ Hands on Learning
   - Online Course Completed
 ---
 ### Day 11
+Structured data
  - [Adding structured data to webpage](https://codelabs.developers.google.com/codelabs/structured-data?hl=en#0) - Google Codelab
+
+### Day 12
+Consistent Hashing(CH)
+- [Introductory-CH](https://www.interviewcake.com/concept/java/consistent-hashing), [Must-read](https://www.acodersjourney.com/system-design-interview-consistent-hashing/) -_articels_
+- [Gaurav sen youtube video](https://www.youtube.com/watch?v=zaRkONvyGr8),  [Code](https://github.com/coding-parrot/Low-Level-Design/blob/master/service-orchestrator/src/main/java/algorithms/ConsistentHashing.java)
+- [Implementing hashtable in JS](https://www.youtube.com/watch?v=UOxTMOCTEZk) - hands on learning
