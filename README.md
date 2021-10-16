@@ -55,7 +55,12 @@ Structured data
  - [Adding structured data to webpage](https://codelabs.developers.google.com/codelabs/structured-data?hl=en#0) - Google Codelab
 
 ### Day 12
-Consistent Hashing(CH)
+Consistent Hashing(CH)- I
 - [Introductory-CH](https://nlogn.in/consistent-hashing-system-design/), [Must-read](https://www.acodersjourney.com/system-design-interview-consistent-hashing/) -_articels_
 - [Gaurav sen youtube video](https://www.youtube.com/watch?v=zaRkONvyGr8),  [Code](https://github.com/coding-parrot/Low-Level-Design/blob/master/service-orchestrator/src/main/java/algorithms/ConsistentHashing.java)
+
+### Day13
+Consistent Hashing -II
+- [Tom White article on Consistent Hashing](http://tom-e-white.com/2007/11/consistent-hashing.html)
+- [Amazon Dynamo-whitepaper](https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html), [ch At Tumblr](http://highscalability.com/blog/2014/8/4/tumblr-hashing-your-way-to-handling-23000-blog-requests-per.html) - _Real-life-Applications_
 - [Implementing hashtable in JS](https://www.youtube.com/watch?v=UOxTMOCTEZk) - hands on learning
