@@ -64,3 +64,8 @@ Consistent Hashing -II
 - [Tom White article on Consistent Hashing](http://tom-e-white.com/2007/11/consistent-hashing.html)
 - [Amazon Dynamo-whitepaper](https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html), [ch At Tumblr](http://highscalability.com/blog/2014/8/4/tumblr-hashing-your-way-to-handling-23000-blog-requests-per.html) - _Real-life-Applications_
 - [Implementing hashtable in JS](https://www.youtube.com/watch?v=UOxTMOCTEZk) - hands on learning
+
+### Day14
+- [From bare metal to kubernetes](http://highscalability.squarespace.com/blog/2019/4/8/from-bare-metal-to-kubernetes.html) - _Case-study_
+- [SSL-intro article](https://dzone.com/articles/what-is-ssl-how-do-ssl-certificates-work), [SSL Video](https://www.youtube.com/watch?v=MQg48n9lV0s&list=PLWkguCWKqN9P8zOHYxS7e0nrHDmUZGZDq&index=6) - _practical learnings_
+- [Dispeling the new ssl myth](http://highscalability.com/blog/2011/2/10/dispelling-the-new-ssl-myth.html), [Overlocking SSL](https://www.imperialviolet.org/2010/06/25/overclocking-ssl.html) - _SSL stories_ | TODO
