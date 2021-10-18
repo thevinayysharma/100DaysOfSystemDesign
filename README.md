@@ -69,3 +69,6 @@ Consistent Hashing -II
 - [From bare metal to kubernetes](http://highscalability.squarespace.com/blog/2019/4/8/from-bare-metal-to-kubernetes.html) - _Case-study_
 - [SSL-intro article](https://dzone.com/articles/what-is-ssl-how-do-ssl-certificates-work), [SSL Video](https://www.youtube.com/watch?v=MQg48n9lV0s&list=PLWkguCWKqN9P8zOHYxS7e0nrHDmUZGZDq&index=6) - _practical learnings_
 - [Dispeling the new ssl myth](http://highscalability.com/blog/2011/2/10/dispelling-the-new-ssl-myth.html), [Overlocking SSL](https://www.imperialviolet.org/2010/06/25/overclocking-ssl.html) - _SSL stories_ | TODO
+
+### Day15
+- [Google Cloud-Qwikalbs](https://www.qwiklabs.com/public_profiles/cc3dca4a-14e3-43fd-aa77-1715010c43b9) - _Revisited Google-cloud engineering skills_
