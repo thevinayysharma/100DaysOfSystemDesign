@@ -72,3 +72,7 @@ Consistent Hashing -II
 
 ### Day15
 - [Google Cloud-Qwikalbs](https://www.qwiklabs.com/public_profiles/cc3dca4a-14e3-43fd-aa77-1715010c43b9) - _Revisited Google-cloud engineering skills_
+
+### Day16
+API -I
+ - [Google API Design Guide](https://cloud.google.com/apis/design) - _theory(...errors)_
