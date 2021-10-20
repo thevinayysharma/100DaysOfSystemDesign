@@ -76,3 +76,11 @@ Consistent Hashing -II
 ### Day16
 API -I
  - [Google API Design Guide](https://cloud.google.com/apis/design) - _theory(...errors)_
+
+### Day17
+API -II
+- [Google API Design Guide](https://cloud.google.com/apis/design) - completed
+- [Netflix Play API](https://qconsf.com/system/files/presentation-slides/qcon_netflix_play_api.pdf) - _API Architectures_
+- [gRPC](https://grpc.io/docs/what-is-grpc/) - _brief overview_
+
+
