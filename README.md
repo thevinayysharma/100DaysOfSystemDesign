@@ -91,3 +91,8 @@ API -III
 API -IV
 - [gRPC implementation](https://www.youtube.com/watch?v=Y92WWaZJl24) - _overview_
 - [graphQl](https://github.com/graphql/graphql-js) - _docs & impementation overview_
+
+### Day20
+ Data Replication
+- [Replication Video](https://www.youtube.com/watch?v=8-dJt2t1vH4)
+- [Replication Article](https://www.manageengine.com/device-control/data-replication.html)
