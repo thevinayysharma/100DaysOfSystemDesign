@@ -11,7 +11,7 @@ Hands on Learning
 
 
 ##  Progress ⏳
-
+Course + Blogs
 ### Day 1
 - [Why you should learn System Design](https://www.scaleyourapp.com/master-system-design-for-your-interviews/)
 - [Tiers in Software Architecture, Web Architecture](https://www.educative.io/courses/web-application-software-architecture-101/N0oypzNK9wN) - _Module: 1-3_
@@ -50,6 +50,8 @@ Hands on Learning
 - [Case-study & Mobile-Apps](https://www.educative.io/courses/web-application-software-architecture-101/gkkXoVkJzmj) - _Module: 15-16_ 
   - Online Course Completed
 ---
+Hands on + New Concepts + API's
+
 ### Day 11
 Structured data
  - [Adding structured data to webpage](https://codelabs.developers.google.com/codelabs/structured-data?hl=en#0) - Google Codelab
@@ -96,3 +98,10 @@ API -IV
  Data Replication
 - [Replication Video](https://www.youtube.com/watch?v=8-dJt2t1vH4)
 - [Replication Article](https://www.manageengine.com/device-control/data-replication.html)
+---
+
+PROGRAMMING SPECIFIC LEARNINGS
+
+### Day21
+- [Design Patterns](https://refactoring.guru/design-patterns/what-is-pattern) - intro, Blocking Code
+- [Building scalable web app's](https://www.simform.com/blog/tips-building-scalable-web-applications/) -_article_ 
