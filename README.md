@@ -105,3 +105,7 @@ PROGRAMMING SPECIFIC LEARNINGS
 ### Day21
 - [Design Patterns](https://refactoring.guru/design-patterns/what-is-pattern) - intro, Blocking Code
 - [Building scalable web app's](https://www.simform.com/blog/tips-building-scalable-web-applications/) -_article_ 
+
+### Day22
+- [Design Patterns](https://refactoring.guru/design-patterns/typescript) - read major(5-6) patterns
+- [Major design patterns to know](https://www.youtube.com/watch?v=FLmBqI3IKMA) - _video_
