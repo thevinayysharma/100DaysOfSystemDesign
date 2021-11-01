@@ -109,3 +109,7 @@ PROGRAMMING SPECIFIC LEARNINGS
 ### Day22
 - [Design Patterns](https://refactoring.guru/design-patterns/typescript) - read major(5-6) patterns
 - [Major design patterns to know](https://www.youtube.com/watch?v=FLmBqI3IKMA) - _video_
+
+### Day23
+- [Back of the envelope calculations](http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html)
+- [Napkin math](https://sirupsen.com/napkin) - _newsletter_
