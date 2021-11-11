@@ -113,3 +113,5 @@ PROGRAMMING SPECIFIC LEARNINGS
 ### Day23
 - [Back of the envelope calculations](http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html)
 - [Napkin math](https://sirupsen.com/napkin) - _newsletter_
+
+ Learning hands-on-java & [Preparing Mind-Reps using sys-design solution template](https://leetcode.com/discuss/career/229177/My-System-Design-Template) -- will continue again after this gets done :)
